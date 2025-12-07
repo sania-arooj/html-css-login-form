@@ -27,6 +27,6 @@ It is beginner-friendly and focuses on clean structure and simple design.
 ## Author
 
 **Sania Arooj**
-🎓 BSCS Student – Virtual University.
-💻 Learning Web Development (HTML, CSS, JS).
+🎓 BSCS Student.
+💻 Learning Web Development.
 🌱 Passionate about coding.
